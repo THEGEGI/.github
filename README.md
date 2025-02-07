@@ -1,6 +1,6 @@
 # TheGegi
 
-Hey there! Welcome to **TheGegi** GitHub repository! We're all about creating an incredible multivendor marketplace where sellers shine and shoppers find exactly what they're looking for—all under one digital roof.
+Hey there! Welcome to **TheGegi** GitHub repository! We're all about creating an incredible multivendor marketplace where sellers shine and shoppers find exactly what they're looking for all under one digital roof.
 
 [![TheGegi Logo](https://thegegi.com/web/src/Assets/logo/tg-48-48.png)](https://thegegi.com)
 
@@ -44,7 +44,7 @@ Think of us as the ultimate destination for discovering amazing products while s
 
 Ready to showcase your products to the world? Here's how to get rolling:
 
-1. **Sign Up**: Join us at [thegegi.com/vendor/signup](https://thegegi.com/vendor/signup) to create your vendor account.
+1. **Sign Up**: Join us at [thegegi.com/vendor/signup](https://thegegi.com/signup) to create your vendor account.
 2. **Set Up Your Store**:
    - **Profile Details**: Add your store name, logo, and a compelling description.
    - **Design Your Space**: Customize your storefront with banners and themes that reflect your brand.
@@ -55,7 +55,7 @@ Ready to showcase your products to the world? Here's how to get rolling:
    - **Market Your Store**: Use our promotional tools to reach more customers.
    - **Engage Customers**: Respond promptly to messages and reviews to build strong relationships.
 
-For comprehensive guidelines, check out our [Vendor Support Page](https://support.thegegi.com/vendors).
+For comprehensive guidelines, check out our [Vendor Support Page](https://support.thegegi.com).
 
 ### For Shoppers
 
