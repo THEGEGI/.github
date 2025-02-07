@@ -1,6 +1,6 @@
 # TheGegi
 
-Hey there! Welcome to TheGegi GitHub repository! We're all about creating an incredible multivendor marketplace where sellers shine and shoppers find exactly what they're looking for—all under one digital roof.
+Hey there! Welcome to **TheGegi** GitHub repository! We're all about creating an incredible multivendor marketplace where sellers shine and shoppers find exactly what they're looking for—all under one digital roof.
 
 [![TheGegi Logo](https://thegegi.com/web/src/Assets/logo/tg-48-48.png)](https://thegegi.com)
 
@@ -63,58 +63,16 @@ Looking for unique finds or everyday essentials? Let's get you started:
 
 1. **Create an Account** _(Optional but recommended)_: Sign up at [thegegi.com/signup](https://thegegi.com/signup) for a personalized experience.
 2. **Explore the Marketplace**:
-   - **Browse Categories**: Dive into our varied categories to discover new products.
+   - **Browse Categories**: Dive into our varied categories to discover new products at.
    - **Use Filters**: Narrow down your search by price, location, seller ratings, and more.
 3. **Make a Purchase**:
-   - **Add to Cart**: Found something you love? Add it to your cart.
-   - **Secure Checkout**: Choose from multiple payment options and complete your purchase safely.
-4. **Track Your Order**:
-   - **Stay Updated**: Get real-time updates on your order status.
-5. **Share Your Thoughts**:
+   - **Message Seller**: Found something you love? Message seller.
+   - **Contact the Seller**: You can also make purchases by messaging the seller directly on our platform or through the contact address provided by the seller.
+   - **Safety Measure**: We recommend you to message or contact sellers only on our platform.
+4. **Share Your Thoughts**:
    - **Leave Reviews**: Help other shoppers by reviewing your purchases.
-   - **Connect with Sellers**: Reach out if you have questions or need support.
-
-Need assistance? Visit our [Customer Support Page](https://support.thegegi.com/customers).
-
-## Contributing
-
-We believe collaboration drives innovation, and we're excited to have you contribute! Here's how you can get involved:
-
-- **Report Issues**: Found a bug or have suggestions? Head over to our [Issues Page](https://github.com/TheGegi/TheGegi/issues) and let us know.
-- **Fork & Pull**: Fork the repository, make your improvements, and submit a pull request.
-- **Join the Discussion**: Engage with the community through [Discussions](https://github.com/TheGegi/TheGegi/discussions) to share ideas and feedback.
-
-### Development Setup
-
-1. **Clone the Repository**:
-
-   ```bash
-   git clone https://github.com/TheGegi/TheGegi.git
-   ```
-
-2. **Install Dependencies**:
-
-   Navigate to the project directory and install the necessary packages.
-
-   ```bash
-   cd TheGegi
-   npm install
-   ```
-
-3. **Run the Application**:
-
-   ```bash
-   npm start
-   ```
-
-4. **Contribution Guidelines**:
-
-   - **Code Quality**: Maintain clean code and follow the established coding standards.
-   - **Commit Messages**: Write clear and descriptive commit messages.
-   - **Testing**: Ensure all tests pass and your code doesn't break existing functionality.
-
-For detailed information, please refer to our [Contributing Guide](https://github.com/TheGegi/TheGegi/blob/main/CONTRIBUTING.md).
-
+   - **Connect with Sellers**: Reach out if you have questions or need to make inquiries concerning they sellers product.
+ 
 ## Need Help?
 
 We're here to support you every step of the way. Don't hesitate to reach out!
@@ -122,15 +80,13 @@ We're here to support you every step of the way. Don't hesitate to reach out!
 - **Support Center**: Visit [support.thegegi.com](https://support.thegegi.com) for FAQs and guides.
 - **Contact Us**:
   - **Email**: [support@thegegi.com](mailto:support@thegegi.com)
-  - **Phone**: +1 (234) 567-8901
-- **Community Forums**: Join the conversation on our [Forums](https://community.thegegi.com).
-
+  - **Phone**: + (234) 8168647417
 Stay connected:
 
 - **Website**: [thegegi.com](https://thegegi.com)
-- **Twitter**: [@TheGegi](https://twitter.com/TheGegi)
-- **Facebook**: [facebook.com/TheGegiMarketplace](https://facebook.com/TheGegiMarketplace)
-- **Instagram**: [@TheGegi](https://instagram.com/TheGegi)
+- **Twitter**: [@TheGegi](https://twitter.com/thegegi)
+- **Facebook**: [facebook.com/thegegi](https://facebook.com/thegegi)
+- **Instagram**: [@thegegi](https://instagram.com/thegegi)
 
 ## License
 
@@ -138,6 +94,6 @@ This project is licensed under the terms of the [MIT License](https://github.com
 
 ---
 
-We're thrilled to have you here and can't wait to see the amazing things we'll accomplish together. Whether you're a vendor eager to grow your business, a shopper hunting for the perfect item, or a developer ready to contribute, **TheGegi** is the place for you.
+We're thrilled to have you here and can't wait to see the amazing things we'll accomplish together. Whether you're a vendor eager to grow your business, a shopper hunting for the perfect item  **TheGegi** is the place for you.
 
 Let's redefine the marketplace experience—together!
