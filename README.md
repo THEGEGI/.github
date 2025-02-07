@@ -11,9 +11,7 @@ Hey there! Welcome to **TheGegi** GitHub repository! We're all about creating an
 - [Getting Started](#getting-started)
   - [For Sellers](#for-sellers)
   - [For Shoppers](#for-shoppers)
-- [Contributing](#contributing)
 - [Need Help?](#need-help)
-- [License](#license)
 
 ---
 
@@ -88,7 +86,6 @@ Stay connected:
 - **Twitter**: [@TheGegi](https://twitter.com/thegegi)
 - **Facebook**: [facebook.com/thegegi](https://facebook.com/thegegi)
 - **Instagram**: [@thegegi](https://instagram.com/thegegi_)
-- 
 
 ---
 
