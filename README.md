@@ -84,13 +84,11 @@ We're here to support you every step of the way. Don't hesitate to reach out!
 Stay connected:
 
 - **Website**: [thegegi.com](https://thegegi.com)
+- **Youtube**: [@thegegi](https://youtube.com/@thegegi)
 - **Twitter**: [@TheGegi](https://twitter.com/thegegi)
 - **Facebook**: [facebook.com/thegegi](https://facebook.com/thegegi)
-- **Instagram**: [@thegegi](https://instagram.com/thegegi)
-
-## License
-
-This project is licensed under the terms of the [MIT License](https://github.com/TheGegi/TheGegi/blob/main/LICENSE). You're free to use, modify, and distribute this software in accordance with the license.
+- **Instagram**: [@thegegi](https://instagram.com/thegegi_)
+- 
 
 ---
 
